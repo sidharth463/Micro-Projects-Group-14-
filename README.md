@@ -7,7 +7,7 @@ turn into smooth gradients over time,
 acting effectively as a mathematical low-pass 
 filter to analyze signal degradation.
 
-##Group Members Contributions
+## Group Members Contributions
 
 
 **Sidharth S**(Group Leader ):
